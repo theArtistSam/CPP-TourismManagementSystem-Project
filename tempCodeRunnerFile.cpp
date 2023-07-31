@@ -1,0 +1,3 @@
+
+        delete frontQ;
+        frontQ = p;
